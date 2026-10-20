@@ -1,0 +1,12 @@
+{
+  "userId": "u_835a2986c6f775b8",
+  "projectId": "norvi-xn-test-program-b7f1cb82",
+  "name": "NORVI-XN-TEST-PROGRAM",
+  "board": {
+    "fqbn": "esp32:esp32:esp32s3"
+  },
+  "selections": null,
+  "serial": null,
+  "createdAt": "2026-10-20T04:30:23.584Z",
+  "updatedAt": "2026-10-20T04:30:23.584Z"
+}
